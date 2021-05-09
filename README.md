@@ -23,11 +23,11 @@ In our web-based solution, there exist various modules such as Master, Sale, Pur
  
 * SignIn Page
  
-<img src="Images/SignIn.PNG" width="700" height="600"/>
+<img src="Images/SignIn.PNG" width="600" height="500"/>
 
 * Sidebar Page
 
-<img src="Images/Sidebar.PNG" width="1000" height="600"/>
+<img src="Images/Sidebar.PNG" width="1000" height="500"/>
 
 * Invoice Page
 
@@ -35,4 +35,4 @@ In our web-based solution, there exist various modules such as Master, Sale, Pur
 
 * Dashboard Page
 
-<img src="Images/Dashboard.PNG" width="1000" height="600"/>
+<img src="Images/Dashboard.PNG" width="1000" height="500"/>
