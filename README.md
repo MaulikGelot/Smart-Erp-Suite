@@ -16,10 +16,23 @@ In our web-based solution, there exist various modules such as Master, Sale, Pur
 * NodeJS
 
 ## Screenshots of Modules:
-<img src="Images/SignUp.PNG" width="600" height="700"
-  />
-  
-  <figure class="image" align-content="center">
-  <img src="Images/SignUp.PNG" width="600" height="700" alt="SignUp Page">
-  <figcaption>SignUp Page</figcaption>
-</figure>
+ 
+* SignUp Page
+ 
+ <img src="Images/SignUp.PNG" width="600" height="700" margin-left="20">
+ 
+* SignIn Page
+ 
+<img src="Images/SignIn.PNG" width="700" height="600"/>
+
+* Sidebar Page
+
+<img src="Images/Sidebar.PNG" width="1000" height="600"/>
+
+* Invoice Page
+
+<img src="Images/Invoice.PNG" width="1000" height="800"/>
+
+* Dashboard Page
+
+<img src="Images/Dashboard.PNG" width="1000" height="600"/>
